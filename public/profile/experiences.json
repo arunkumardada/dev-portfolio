@@ -1,33 +1,45 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Developer",
+            "subtitle": "SAP Labs India",
+            "workType": "Full-Time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Involved in Framework Development of SAP Fiori Elements with SAPUI5 which helps App Developers to Consume our Framework and Build Applications on top of it.",
+                "Developed Cloud File Picker Control to make it as a common storage workspace to export the Files/Folders.",
+                "Developed Multiple Features and Support the AVP/OVP Floorplans"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "Jan 2021 – Jan 2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Senior Software Engineer",
+            "subtitle": "Philips",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Redesigned and developed updated features of the Smart Sleep Analyzer Application and contributed to Different Custom Components along with Optimizing the Performance of web pages",
+                "Developed UI Kits on Angular and React which helps to onboard Upcoming Small Projects across BU."
+            ],
+            "dateText": "Oct 2018 - Jan 2021"
+        },
+        {
+            "title": "Systems Engineer",
+            "subtitle": "TCS",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Developed a Contract Module for CISCO R&D Project, where users can Create and Publish Service Plans in Seller and Buyer Portal",
+                "Developed Filter Panel and contributed features for CISCO Internal Application"
+            ],
+            "dateText": "July 2016 – Oct 2018"
+        },
+        {
+            "title": "Web Developer Intern",
+            "subtitle": "OyeShoppy",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Contributed to Invoice Calculator Module and Developed Company’s blog using WordPress.",
+                "Worked on Product Categories Page."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "May 2015 – July 2015"
         }
     ]
 }
