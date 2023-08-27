@@ -9,7 +9,7 @@ function MainApp() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch(process.env.REACT_APP_FOR_PATH + endpoints.routes, {
+    fetch(endpoints.routes, {
       method: 'GET',
     })
       .then((res) => res.json())
