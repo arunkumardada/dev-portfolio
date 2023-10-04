@@ -21,6 +21,52 @@
             ]
         },
         {
+            "image" : "images/projects/smart-sleep-analyzer.png",
+            "title": "Philips Smart Sleep Analyzer",
+            "bodyText": "-   Philips SmartSleep Analyzer is a decision support tool to help users manage their sleep.\n It is not a substitute for professional **medical advice, diagnosis, or treatment**. Information from Philips SmartSleep Analyzer is not meant to provide formal medical diagnoses or prescription therapies.  ",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://www.smartsleep-analyzer.philips.com/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Socket",
+                "JavaScript",
+                "Vercel",
+                "HTML",
+                "CSS",
+                "react-chatbot-kit",
+                "Socket IO Client"
+            ]
+        },
+        {
+            "image" : "images/projects/netflicks-poster.png",
+            "title": "NetFlicks GPT",
+            "bodyText": "- Displaying Online Movie Database in React lookalike Netflix along with GPT Searchbar Enabled\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/arunkumardada/netflicks-gpt"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://netflicksgpt.web.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Redux",
+                "Tailwind",
+                "firebase",
+                "HTML",
+                "JavaScript",
+                "TMDB API's",
+                "GPT API's"
+            ]
+        },
+        {
             "image" : "images/projects/foody-app-poster.png",
             "title": "FoodGY -  online food ordering and food delivery platform.",
             "bodyText": "- An Online Food Ordering Platform \n Option to Select the Restaurant and Add to Cart **Food Items**",
@@ -68,27 +114,7 @@
                 "react-chatbot-kit",
                 "Socket IO Client"
             ]
-        },
-        {
-            "image" : "images/projects/smart-sleep-analyzer.png",
-            "title": "Philips Smart Sleep Analyzer",
-            "bodyText": "-   Philips SmartSleep Analyzer is a decision support tool to help users manage their sleep.\n It is not a substitute for professional **medical advice, diagnosis, or treatment**. Information from Philips SmartSleep Analyzer is not meant to provide formal medical diagnoses or prescription therapies.  ",
-            "links": [
-                {
-                    "text": "Live",
-                    "href": "https://www.smartsleep-analyzer.philips.com/"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Socket",
-                "JavaScript",
-                "Vercel",
-                "HTML",
-                "CSS",
-                "react-chatbot-kit",
-                "Socket IO Client"
-            ]
         }
+        
     ]
 }
